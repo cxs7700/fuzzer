@@ -1,0 +1,7 @@
+{
+	"dvwa": {
+		"username": "admin",
+		"password": "password",
+		"login_url": "http://127.0.0.1/dvwa/login.php"
+	}
+}
